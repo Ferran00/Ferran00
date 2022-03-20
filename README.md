@@ -5,7 +5,7 @@
 --->
 - I am studying software engineering at FIB - UPC, and I am currently on Erasmus in Milan, Italy.
 - I like to program stuff, like mobile apps, web apps, and hopefully videogames.
-- I've worked with C, C++, Java, Ruby (on rails), Kotlin, a bit of Python, and SQL.
+- I've worked with C, C++, C#, Java, Ruby (on rails), Kotlin, Dart, a bit of Python, and SQL.
 
 <!---
 Ferran00/Ferran00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
