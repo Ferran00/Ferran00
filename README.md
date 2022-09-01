@@ -5,7 +5,7 @@
 --->
 - I am studying software engineering at FIB - UPC.
 - I took a year (Erasmus) in Politecnico di Milano, Italy.
-- I like to program stuff, like mobile apps, web apps, and hopefully videogames.
+- I like to program stuff, like mobile apps, web apps, and videogames.
 - I've worked with C, C++, C#, Java, Ruby (on rails), Kotlin, Dart, a bit of Python, and SQL.
 
 <!---
