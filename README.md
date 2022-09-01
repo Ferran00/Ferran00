@@ -3,7 +3,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-- I am studying software engineering at FIB - UPC, and I am currently on Erasmus in Milan, Italy.
+- I am studying software engineering at FIB - UPC.
+- I took a year (Erasmus) in Politecnico di Milano, Italy.
 - I like to program stuff, like mobile apps, web apps, and hopefully videogames.
 - I've worked with C, C++, C#, Java, Ruby (on rails), Kotlin, Dart, a bit of Python, and SQL.
 
