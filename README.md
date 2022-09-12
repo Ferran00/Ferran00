@@ -7,8 +7,7 @@
 - I took a year (Erasmus) in Politecnico di Milano, Italy.
 - I like to program stuff, like mobile apps, web apps, and videogames.
 - I've worked with C, C++, C#, Java, Ruby (on rails), Kotlin, Dart, a bit of Python, and SQL.
-
-[My CV](https://github.com/Ferran00/CV)
+- [My CV (in spanish, catalan and english)](https://github.com/Ferran00/CV)
 
 <!---
 Ferran00/Ferran00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
