@@ -8,14 +8,14 @@
 - I took a year (Erasmus) in Politecnico di Milano, Italy.
 - I like to program stuff, like mobile apps, web apps, and videogames.
 - I've worked with:
- - C
- - C++
- - C#
- - Java
- - Android & Kotlin
- - Flutter & Dart
- - SQL & Postgres
- - Ruby (on Rails)
+  - C
+  - C++
+  - C#
+  - Java
+  - Android & Kotlin
+  - Flutter & Dart
+  - SQL & Postgres
+  - Ruby (on Rails)
 - And a bit of:
   - Unity
   - Python
