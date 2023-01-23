@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 --->
 - I'm a final year software engineering student at FIB - UPC.
-- I'm an intern at Telespazio Ibérica, where I'm also developing my Degree Final Project
+- I'm an intern at Telespazio Ibérica, where I'm also developing my Degree Final Project.
 - I took a year (Erasmus) in Politecnico di Milano, Italy.
 - I like to program stuff, like mobile apps, web apps, and videogames.
 - I've worked with:
