@@ -3,10 +3,23 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-- I am studying software engineering at FIB - UPC.
+- I'm a final year software engineering student at FIB - UPC.
+- I'm an intern at Telespazio Ibérica, where I'm also developing my Degree Final Project
 - I took a year (Erasmus) in Politecnico di Milano, Italy.
 - I like to program stuff, like mobile apps, web apps, and videogames.
-- I've worked with C, C++, C#, Java, SQL, Kotlin, Dart, Ruby (on Rails), and a bit of Python.
+- I've worked with:
+ - C
+ - C++
+ - C#
+ - Java
+ - Android & Kotlin
+ - Flutter & Dart
+ - SQL & Postgres
+ - Ruby (on Rails)
+- And a bit of:
+  - Unity
+  - Python
+  - .NET
 - [My CV, updated. (in spanish, catalan and english)](https://github.com/Ferran00/CV)
 
 <!---
