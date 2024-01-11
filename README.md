@@ -12,9 +12,11 @@
   - C++
   - C#
   - Java
+  - Spring & Spring Boot
+  - Angular, Typescript, HTML & CSS
   - Android & Kotlin
   - Flutter & Dart
-  - SQL & Postgres
+  - SQL, Postgres, Oracle & SQLServer
   - Ruby (on Rails)
 - And a bit of:
   - Unity
