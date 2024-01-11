@@ -11,8 +11,7 @@
   - C
   - C++
   - C#
-  - Java
-  - Spring & Spring Boot
+  - Java, Spring & Spring Boot
   - Angular, Typescript, HTML & CSS
   - Android & Kotlin
   - Flutter & Dart
