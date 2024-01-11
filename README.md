@@ -11,13 +11,14 @@
   - C
   - C++
   - C#
-  - Java, Spring & Spring Boot
+  - Java
   - Angular, Typescript, HTML & CSS
   - Android & Kotlin
   - Flutter & Dart
   - SQL, Postgres, Oracle & SQLServer
   - Ruby (on Rails)
 - And a bit of:
+  - Spring & Spring Boot
   - Unity
   - Python
   - .NET
