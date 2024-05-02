@@ -22,7 +22,6 @@
   - Unity
   - Python
   - .NET
-- [My CV, updated. (in spanish, catalan and english)](https://github.com/Ferran00/CV)
 
 <!---
 Ferran00/Ferran00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
